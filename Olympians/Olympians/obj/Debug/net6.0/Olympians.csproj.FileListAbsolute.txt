@@ -1,0 +1,60 @@
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\appsettings.Development.json
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\appsettings.json
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.exe
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.deps.json
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.runtimeconfig.json
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.dll
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.pdb
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.Models.dll
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.csproj.AssemblyReference.cache
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.AssemblyInfoInputs.cache
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.AssemblyInfo.cs
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.csproj.CoreCompileInputs.cache
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.MvcApplicationPartsAssemblyInfo.cs
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.MvcApplicationPartsAssemblyInfo.cache
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\staticwebassets.build.json
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\staticwebassets.development.json
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\scopedcss\bundle\Olympians.styles.css
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.csproj.CopyComplete
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.dll
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\refint\Olympians.dll
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.pdb
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\Olympians.genruntimeconfig.cache
+D:\Academy\Olympians\Olympians\obj\Debug\net6.0\ref\Olympians.dll
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.Services.dll
+D:\Academy\Olympians\Olympians\bin\Debug\net6.0\Olympians.Services.pdb
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\appsettings.json
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.exe
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.deps.json
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.runtimeconfig.json
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.pdb
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.Models.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.Services.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\bin\Debug\net6.0\Olympians.Services.pdb
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.AssemblyInfo.cs
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\scopedcss\bundle\Olympians.styles.css
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.csproj.CopyComplete
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\refint\Olympians.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.pdb
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\Olympians.genruntimeconfig.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians\obj\Debug\net6.0\ref\Olympians.dll

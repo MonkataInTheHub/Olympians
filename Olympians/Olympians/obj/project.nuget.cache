@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "m7s32gcIlEjE06EvCQjPQeOoGicvTJgd3pNQfd36f3fSd//Sw0QOoOOH0XSF3p5TAfuli0riToWNanZ1tQWItw==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Visual Studio Repository\\Olympians\\Olympians\\Olympians\\Olympians.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moni\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Moni\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Moni\\.nuget\\packages\\olympians.models\\1.0.17\\olympians.models.1.0.17.nupkg.sha512",
+    "C:\\Users\\Moni\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Moni\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Moni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Moni\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

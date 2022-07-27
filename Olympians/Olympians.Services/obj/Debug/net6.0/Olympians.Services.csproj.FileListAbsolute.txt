@@ -1,0 +1,24 @@
+D:\Academy\Olympians\Olympians.Services\bin\Debug\net6.0\Olympians.Services.deps.json
+D:\Academy\Olympians\Olympians.Services\bin\Debug\net6.0\Olympians.Services.dll
+D:\Academy\Olympians\Olympians.Services\bin\Debug\net6.0\Olympians.Services.pdb
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.csproj.AssemblyReference.cache
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.AssemblyInfoInputs.cache
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.AssemblyInfo.cs
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.csproj.CoreCompileInputs.cache
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.dll
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\refint\Olympians.Services.dll
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.pdb
+D:\Academy\Olympians\Olympians.Services\obj\Debug\net6.0\ref\Olympians.Services.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\bin\Debug\net6.0\Olympians.Services.deps.json
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\bin\Debug\net6.0\Olympians.Services.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\bin\Debug\net6.0\Olympians.Services.pdb
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.csproj.AssemblyReference.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.AssemblyInfo.cs
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\refint\Olympians.Services.dll
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\Olympians.Services.pdb
+D:\Documents\Visual Studio Repository\Olympians\Olympians.Services\obj\Debug\net6.0\ref\Olympians.Services.dll

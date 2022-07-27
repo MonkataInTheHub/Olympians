@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iPr/Vj3lID+tGKx4UVoQLupxYcto0ajOn6z7svfNVCe1eQ6Z7b6fp7hGqXeKAASfhJe78LSN7ZZY/JhIzEVGDw==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Visual Studio Repository\\Olympians\\Olympians.Services\\Olympians.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moni\\.nuget\\packages\\olympians.models\\1.0.18\\olympians.models.1.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
